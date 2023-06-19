@@ -1,2 +1,2 @@
 # Getting started with TAO
-Download the stack here ->
+Download the softare here ->

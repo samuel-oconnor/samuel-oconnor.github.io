@@ -1,6 +1,8 @@
 # TAO
 
+A calm approach to chaos
+
 Welcome to the documentation for the TAO service.
 
-
-[get Started](./docs/getStarted.md)
+Key links - 
+* [get Started](./docs/getStarted.md)
