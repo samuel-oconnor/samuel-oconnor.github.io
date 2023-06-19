@@ -1,0 +1,9 @@
+title: TAO
+description: Welcome to the documentation for the TAO service.
+google_analytics:
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
