@@ -1,8 +1,6 @@
-# TAO
+# Samuel O'Connor soft-eng notes
 
-A calm approach to chaos
-
-Welcome to the documentation for the TAO service.
+Welcome to the documentation for the services in the [github repo](https://github.com/samuel-oconnor).
 
 Key links - 
 * [get Started](./docs/getStarted.md)
