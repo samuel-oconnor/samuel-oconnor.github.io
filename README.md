@@ -3,4 +3,4 @@
 This website contains documentation/research for the services in the [github repo](https://github.com/samuel-oconnor).
 
 Key links - 
-* [get Started](./docs/getStarted.md)
+* [Secondary Producers Research](./docs/getStarted.md)
